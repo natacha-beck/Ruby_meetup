@@ -2428,7 +2428,7 @@ blob    4cb242e    hello_loris.rb}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs28 \cf2 \expnd0\expndtw0\kerning0
-fb6070e}</string>
+4cb242e}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -3405,7 +3405,7 @@ ec26e8f}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-08-05 21:16:18 +0000</string>
+	<string>2015-08-12 15:20:35 +0000</string>
 	<key>Modifier</key>
 	<string>Natacha Beck</string>
 	<key>NotesVisible</key>
@@ -3486,7 +3486,7 @@ ec26e8f}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{0, 60}, {1423, 929}}</string>
+		<string>{{-1513, 128}, {1423, 929}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
