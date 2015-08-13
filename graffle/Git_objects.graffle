@@ -122,7 +122,7 @@
 \pard\pardeftab720
 
 \f0\fs40 \cf2 \expnd0\expndtw0\kerning0
-Each of these Git object is identified by a unique SHA-1 hash\
+Each of these Git objects is identified by a unique SHA-1 hash\
 such as 'adb45233ba8842c.....' (40 char)}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -132,7 +132,7 @@ such as 'adb45233ba8842c.....' (40 char)}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{213, 388}, {581, 117}}</string>
+			<string>{{213, 388}, {688, 117}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -189,7 +189,7 @@ such as 'adb45233ba8842c.....' (40 char)}</string>
 \pard\pardeftab720
 
 \f0\fs40 \cf2 \expnd0\expndtw0\kerning0
-Point to any git commit object. Can be used to refer to the specific \
+Points to any git commit object. Can be used to refer to the specific \
 tree in the commit. }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -256,8 +256,8 @@ tree in the commit. }</string>
 \pard\pardeftab720
 
 \f0\fs40 \cf2 \expnd0\expndtw0\kerning0
-Include information about who committed the change. Includes:\
-  - a pointer to a git tree, that represent the state of the git repo when the  commit was done\
+Includes information about who committed the change. Includes:\
+  - a pointer to a git tree, representing the state of the git repo when the commit was done\
   - a reference to the parent(s)}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -584,7 +584,7 @@ Similar to a filesystem directory. Can refer to lists of:\
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-08-05 20:51:36 +0000</string>
+	<string>2015-08-12 20:52:15 +0000</string>
 	<key>Modifier</key>
 	<string>Natacha Beck</string>
 	<key>NotesVisible</key>
@@ -665,7 +665,7 @@ Similar to a filesystem directory. Can refer to lists of:\
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{735, 70}, {1152, 929}}</string>
+		<string>{{634, 111}, {1286, 888}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -679,7 +679,7 @@ Similar to a filesystem directory. Can refer to lists of:\
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{134, -13}, {1017, 759}}</string>
+		<string>{{0, 0}, {1151, 733}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

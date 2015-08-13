@@ -65,7 +65,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{213, 248.5}, {802, 117}}</string>
+			<string>{{194, 163}, {802, 117}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -122,8 +122,8 @@
 \pard\pardeftab720
 
 \f0\fs40 \cf2 \expnd0\expndtw0\kerning0
-Include information about who committed the change. Includes:\
-  - a pointer to a git tree, that represent the state of the git repo when the  commit was done\
+Includes information about who committed the change. Includes:\
+  - a pointer to a git tree, representing the state of the git repo when the commit was done\
   - a reference to the parent(s)}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -133,7 +133,7 @@ Include information about who committed the change. Includes:\
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{51, 261}, {112, 92}}</string>
+			<string>{{32, 175.5}, {112, 92}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -214,7 +214,7 @@ Include information about who committed the change. Includes:\
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-08-05 21:08:28 +0000</string>
+	<string>2015-08-12 20:53:30 +0000</string>
 	<key>Modifier</key>
 	<string>Natacha Beck</string>
 	<key>NotesVisible</key>

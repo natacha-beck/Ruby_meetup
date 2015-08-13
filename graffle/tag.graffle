@@ -65,7 +65,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{213, 388}, {581, 117}}</string>
+			<string>{{222, 397}, {688, 117}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -122,7 +122,7 @@
 \pard\pardeftab720
 
 \f0\fs40 \cf2 \expnd0\expndtw0\kerning0
-Point to any git commit object. Can be used to refer to the specific \
+Points to any git commit object. Can be used to refer to the specific \
 tree in the commit. }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -132,7 +132,7 @@ tree in the commit. }</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{51, 406}, {112, 92}}</string>
+			<string>{{60, 415}, {112, 92}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -223,7 +223,7 @@ tree in the commit. }</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-08-05 21:07:33 +0000</string>
+	<string>2015-08-12 20:52:52 +0000</string>
 	<key>Modifier</key>
 	<string>Natacha Beck</string>
 	<key>NotesVisible</key>
